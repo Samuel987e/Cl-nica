@@ -1,9 +1,9 @@
-  <!DOCTYPE html
+<!DOCTYPE html
 <html lang="pt-BR">
 <head>
  <meta charset="UTF-8">
  <title>Seja Bem Vindo a Nossa Clínica Saudável</title>
- </style>
+ 
 </head>
 <body>
 
