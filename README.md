@@ -1,12 +1,11 @@
-<!DOCTYPE html
+!DOCTYPE html
 <html lang="pt-BR">
 <head>
  <title>Seja Bem Vindo a Nossa Clínica Saudável</title>
 </head>
 <body>
-  <h1>Sejam Bem Vindo a Nossa Clínica Saudável</h1>
  
- <h2>Sobre a Clínica</h2>
+ <h1>Sobre a Clínica</h1>
  <p>Aqui oferecemos nosso atendimento completo com profissionais e especializado em diversas da área da saúde.
 
 
