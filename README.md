@@ -1,11 +1,16 @@
-!DOCTYPE html
+  <!DOCTYPE html
 <html lang="pt-BR">
 <head>
+ <meta charset="UTF-8">
  <title>Seja Bem Vindo a Nossa Clínica Saudável</title>
+ </style>
 </head>
 <body>
+
+<header>
+<h1>Seja Bem Vindo a Nossa Clínica Saudável</h1>
  
- <h1>Sobre a Clínica</h1>
+ <h2>Sobre a Clínica</h2>
  <p>Aqui oferecemos nosso atendimento completo com profissionais e especializado em diversas da área da saúde.
 
 
