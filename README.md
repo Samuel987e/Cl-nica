@@ -2,7 +2,7 @@
 <!DOCTYPE html
 <html lang="pt-BR">
 <head>
- <title>Seja Bem Vindo a Nossa Clínica Saudável</title>
+ <title>Sejam Bem Vindo a Nossa Clínica Saudável</title>
 </head>
 <body>
   <h1>Sejam Bem Vindo a Nossa Clínica Saudável</h1>
