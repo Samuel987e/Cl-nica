@@ -1,8 +1,7 @@
-# Clínica
 <!DOCTYPE html
 <html lang="pt-BR">
 <head>
- <title>Sejam Bem Vindo a Nossa Clínica Saudável</title>
+ <title>Seja Bem Vindo a Nossa Clínica Saudável</title>
 </head>
 <body>
   <h1>Sejam Bem Vindo a Nossa Clínica Saudável</h1>
@@ -22,6 +21,9 @@
     <li>Exames de Laboratórios</li>
     <li>Consultas com os clínicos</li>
     <li>Fisioterapia e Reabilitação</li>
+  <img src="servico1.jpg" alt=Consultas com os clínicos width
+    </div>
+<img src="servico2.jpg" alt=Fisioterapia width
   </div>
  </div>
 <section>
@@ -38,6 +40,8 @@
   </div class="membro">
    <img src "médico3.jpg" alt="Dr.Henrique">
    <p>-Enfermeiro Chefe</p>
+  
+   
 </div>
 </div>
 </section>
