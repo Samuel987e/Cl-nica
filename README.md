@@ -7,7 +7,6 @@
 </head>
 <body>
 
-<header>
 <h1>Seja Bem Vindo a Nossa Clínica Saudável</h1>
  
  <h2>Sobre a Clínica</h2>
