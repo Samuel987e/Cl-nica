@@ -3,7 +3,7 @@
 <head>
  <meta charset="UTF-8">
 
- <title>Seja Bem Vindo a Nossa Clínica Saudável HTML</title>
+   <title>Seja Bem Vindo a Nossa Clínica Saudável HTML</title>
  
 </head>
 <body>
@@ -27,7 +27,8 @@
     <li>Fisioterapia e Reabilitação</li>
   <img src="servico1.jpg" alt=Consultas com os clínicos width
     </div>
-<img src="servico2.jpg" alt=Fisioterapia width
+<img src="servico2.jpg"
+ alt=Fisioterapia width
   </div>
  </div>
 <section>
